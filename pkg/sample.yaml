@@ -1,0 +1,7 @@
+apiVersion: chaosapps.metamagical.io/v1
+kind: ChaosPod
+metadata:
+  name: chaospod-sample
+  namespace: "test"
+spec:
+  
